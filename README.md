@@ -13,6 +13,7 @@ The text interface will always show up because we need the terminal window to in
 
 There are 4 levels programmed to this game with different probability settings on what blocks are going to be spawned next.
 Level 3 and 4 is unique because every move or rotation to the block will face 1 down effect and level 4 makes it harder by adding a 1x1 square in the middle of the game after 5 moves if no block is cleared. The 1x1 block is brown in the graphical display and it is an asterisk in the text display.
+
 <img src="images/6.png" width="450" >
 
 The game also has special actions where they are triggered when you clear 2+ lines in a single drop of block. The effects are 'Blind' blinds the screen of the opponent. 'Heavy' causes the opponent to get 1 down on every block movements and rotations. 'Force' forces the opponent's current block to be a block that you choose.
