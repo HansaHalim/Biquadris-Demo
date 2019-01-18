@@ -1,5 +1,5 @@
 # Biquadris-Demo
-This page to demonstrate the Private Biquadris Project.
+This page to demonstrate the Biquadris Project which is the final project for CS 246. It received a final mark of 97.2
 The source code is available to view upon request, but is not open to the public due to Policy 71 of the University of Waterloo.
 
 A total of 57 .cc and .h files are used in this game where in most cases the class performs exactly 1 action, thus the code can be reused for other games that are quite similar and it minimizes recompilation if we were to modify a certain action.
